@@ -2,7 +2,7 @@
 # 🦄 Uniswap V2 + Natural Language Interface
 
 <div align="center">
-  <img src="public/uniswap-v2-banner.png" alt="Uniswap AI Banner" width="800px" />
+
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
