@@ -10,9 +10,7 @@
   [![Foundry](https://img.shields.io/badge/Foundry-Forge-orange.svg)](https://book.getfoundry.sh/)
   [![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  <h3>Swap tokens using English commands. Yes, really.</h3>
-
-  <p><a href="https://your-deployment.vercel.app" target="_blank">🌐 Live Demo</a> | <a href="https://youtu.be/your-demo-link" target="_blank">📺 Watch Video</a></p>
+  <h3>Swap tokens using English commands.</h3>
 </div>
 
 ---
